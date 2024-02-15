@@ -20,3 +20,5 @@ Visit Hidden Gems of Turkey to share my passion for travel and experiences. Are 
 
 You can visit my site: [Hidden Gems Of Turkey Travel Blog Site](https://piwd349-6-e.nobelexplorers.website/homepage-of-travel-blog/)<br>
 
+<img src="https://github.com/iremalaiye/WordPress-Travel-Blog/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-02-16%20004336.png" width="auto">
+
